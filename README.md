@@ -1,6 +1,4 @@
 
-__Incomplete__
+### [Richonrails shopping cart tutorial](https://richonrails.com/articles/building-a-shopping-cart-in-ruby-on-rails)
 
-## [Richonrails shopping cart tutorial](https://richonrails.com/articles/building-a-shopping-cart-in-ruby-on-rails)
-
-Completed with error
+Work in progress.
